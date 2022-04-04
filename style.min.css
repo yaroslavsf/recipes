@@ -1,3 +1,24 @@
+* {
+    background-color:rgb(40, 38, 38);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:ivory;
+}
+
 .title{
     text-align: center;
+}
+
+.text-content{
+    font-size: 1.5em;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.text-content > li {
+    margin-bottom: 2vh;
+}
+
+img {
+    width: 40%;
+    height: 15%;
 }
